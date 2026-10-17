@@ -1,0 +1,1 @@
+Exploratory Data Analysis (EDA) on the Iris dataset using Python. This project includes statistical analysis, data visualization, identification of patterns and trends, and key insights using Pandas, Matplotlib, and Seaborn.
